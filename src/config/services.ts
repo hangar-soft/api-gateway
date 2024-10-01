@@ -1,0 +1,1 @@
+export const CLIENT_SERVICE = 'CLIENT_SERVICE'
